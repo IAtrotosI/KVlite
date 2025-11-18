@@ -2,25 +2,6 @@
 
 Lightweight in-memory key-value store written in pure C with network access, console and graphical interfaces.
 
-## Project Structure
-
-
-KVlite/
-└── src/
-    ├── client/
-    │   └── main.c
-    ├── core/
-    │   ├── kvstore.c
-    │   └── kvstore.h
-    ├── gui/
-    │   └── KVliteGUI.cpp
-    ├── server/
-    │   └── server.c
-    ├── tools/
-    │   └── kvlite_client.c
-    └── CMakeLists.txt
-
-
 ## Features
 
 - In-memory data storage as key-value pairs
