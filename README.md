@@ -116,4 +116,3 @@ Data is stored in RAM as a dynamic array of key-value pairs. When SAVE command i
 ## License
 
 Project is distributed under MIT license. Detailed information is available in the LICENSE file.
-```
